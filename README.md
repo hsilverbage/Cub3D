@@ -94,4 +94,4 @@ Here are some screenshots showcasing the gameplay and features of Cub3D:
 ## Credits
 
 This project was developed by Akhellad and Hsilverb, students at Ecole 42. The Cub3D project demonstrates a practical application of computer graphics programming, offering an immersive experience in a 3D environment.
-# Cub3D
+
